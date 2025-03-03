@@ -48,5 +48,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 ## Contato
 Para dúvidas ou sugestões, entre em contato:
 
-- Seu Nome - [seu-email@example.com](mailto:seu-email@example.com)
-- LinkedIn: [link-para-seu-linkedin](link-para-seu-linkedin)
+- Nome: Jonatas Elieser Moreira
+- Email: jonatas.em20@gmail.com
+- LinkedIn: [Jonatas](https://www.linkedin.com/in/jonatas-elieser-moreira-948632270/)
