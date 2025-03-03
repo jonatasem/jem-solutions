@@ -1,0 +1,25 @@
+.container-services {
+    padding: 1.5rem;
+}
+.services-left {
+    border-bottom: 2px solid black;
+}
+.container-services h1 {
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+    min-width: fit-content;
+    max-width: max-content;
+
+}
+.services-right ul {
+    margin: 1rem;
+}
+.services-right ul li {
+    margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.services-right ul li strong {
+    margin-right: 0.5rem;
+}
